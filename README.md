@@ -77,7 +77,7 @@ Examples for some systems:
 
 Operating system | Installation command
 ---------------- | --------------------
-Debian-based     | `sudo apt-get install libleveldb-dev libmicrohttpd-dev`
+Debian-based     | `sudo apt-get install libleveldb-dev cmake libmicrohttpd-dev`
 RedHat-based     | `dnf install leveldb-devel libmicrohttpd-devel`
 macOS            | `brew install leveldb libmicrohttpd`
 
